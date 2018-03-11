@@ -1,8 +1,0 @@
-1. Meng Lin(ml46236)
-2. For milestone2, I implemented:
-	1) TexureMap
-	2) Cubemap
-	3) BVH
-	4) stochastic (jittered) supersampling
-Also, I have fixed all the bug in milestone1. For now, my program can pass all the testcases.
-My program disabled the internal reflection.
